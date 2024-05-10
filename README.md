@@ -28,7 +28,7 @@ pip install PSNAWP
 To install the library into python. First you need to clone the repo at your local machine and run the following command from the root directory of the repo
 
 ```
-python setup.py install
+pip install .
 ```
 
 ## Important Links
